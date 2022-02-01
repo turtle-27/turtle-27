@@ -1,4 +1,4 @@
-<p align="center"> Hello!
+<p align="center"> Hello! 👋
 </p>
 
 I am Nishant Kumar, a third year Undergraduate in Department of Computer Science and Engineering at Indian Institute of Technology, Delhi. 
