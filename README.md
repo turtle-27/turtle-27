@@ -3,7 +3,7 @@
 
 I am Nishant Kumar, a final year Undergraduate in Department of Computer Science and Engineering at Indian Institute of Technology, Delhi. 
 
-My interests lie in the domain of Computer Science Engineering and currently learning in the field of Natural language processing (NLP) & I'm open to learn new things.
+My interests lie in the domain of Computer Science Engineering and currently learning in the field of Natural language processing (NLP).
 
 Here are my GitHub stats. Enjoy :)
 
