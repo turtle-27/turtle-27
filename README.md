@@ -5,7 +5,7 @@ I am Nishant Kumar, a final year Undergraduate in Department of Computer Science
 
 My interests lie in the domain of Computer Science Engineering and currently learning in the field of Natural language processing (NLP).
 
-Here are my GitHub stats. Enjoy :)
+Here are my GitHub stats:)
 
 
 <p align="center">
